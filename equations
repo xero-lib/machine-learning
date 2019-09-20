@@ -1,0 +1,7 @@
+h_theta(x)=theta_0*x_0+theta_1*x_1+theta_2*x_2+theta_b //where theta is the parameter 
+
+Cost =1/2m SUM m / i=0 (h_theta(x_i)+#)
+
+Gradient decent (Theta_1, Cost) then take reflection point and taking the integral of that point |rX| where rX is the point of reflection
+
+2/m SUM m / i=1 (h_theta(x^i)-y^i)
